@@ -1,0 +1,1 @@
+{"name": "jmrsp-portal", "private": true, "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "create-admin": "node --env-file=.env.local scripts/create-admin.mjs"}, "dependencies": {"next": "14.2.5", "react": "18.3.1", "react-dom": "18.3.1", "@supabase/supabase-js": "2.45.0", "qrcode": "1.5.4", "read-excel-file": "5.8.5"}}
